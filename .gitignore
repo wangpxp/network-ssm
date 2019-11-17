@@ -1,0 +1,5 @@
+# Project exclude paths
+/network-ssm-dao/target/
+/network-ssm-model/target/
+/network-ssm-service/target/
+/network-ssm-web/target/
